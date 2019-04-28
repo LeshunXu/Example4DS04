@@ -19,16 +19,6 @@ and
 (the invited talk at [The R User Conference 2011](https://www.r-project.org/conferences/useR-2011/)) by [Ulrike Groemping](https://prof.beuth-hochschule.de/groemping/?L=1).
 
 
-
-
-<!-- In this example includes -->
-
-<!-- 1. An example of using instruments to reduce the variances (measurements error) -->
-
-<!-- 2. checking if a new treatment is different to the old one -->
-
-<!-- 3. A/B testing for two strategies -->
-  
 ```{r setup, include=FALSE}
 # library(data.table)
 # library(mgcv)
