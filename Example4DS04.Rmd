@@ -21,12 +21,7 @@ and
 
   
 ```{r setup, include=FALSE}
-# library(data.table)
-# library(mgcv)
-# library(ggplot2)
 suppressMessages(library(pwr, warn.conflicts = FALSE))
-# library(dplyr)
-# library(scales)
 ```
 
 ```{r, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
