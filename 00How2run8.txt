@@ -1,0 +1,9 @@
+MikTeX (see https://miktex.org/download) needs to be installed to your systerm for math formulas in the .Rmd file.
+
+1. Save all files to ONE folder.
+
+2. Open the .Rmd file in Rstudio.
+
+3. Install required "pwr" R packages. 
+
+4. Click "Knit" or "Ctrl+Shift+K".
