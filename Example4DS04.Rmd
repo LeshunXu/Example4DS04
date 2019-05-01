@@ -24,13 +24,6 @@ and
 suppressMessages(library(pwr, warn.conflicts = FALSE))
 ```
 
-```{r, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
-library(knitr)
-opts_knit$set(root.dir = "D:/2019 Example4DataScience/Example4DS02")
-```
-```{r, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
-
-```
 
 ### Weighing three balls with a new balance
 
